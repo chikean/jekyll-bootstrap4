@@ -7,6 +7,6 @@ COPY ./Gemfile /srv/jekyll/Gemfile
 
 RUN apk update
 RUN apk upgrade
-RUN gem install bundler --no-ri --no-rdoc
+RUN gem install bundler
 RUN bundle update
 RUN gem clean
