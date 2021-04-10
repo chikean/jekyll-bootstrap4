@@ -1,6 +1,9 @@
 # Jekyll-bootstrap4
 Dockerized Jekyll skeleton with integrated Bootstrap v4.0 Jumbotron template to quickly generate new sites.
 
+| 📁  This project has been archived. The dependencies and approach have changed significantly since development.   |
+|-----------------------------------------|
+
 ## Instructions
 1. Clone the repo and cd into it.
 2. Launch the container: <code>docker-compose up</code>
